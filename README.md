@@ -1,0 +1,2 @@
+# squashdemo
+squash merge demo
